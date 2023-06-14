@@ -5,12 +5,12 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
 
-To complete this project we need to know some Python and be familiar with pandas DataFrames and bootstrap analysis.
+To complete this project we need the below skills.
 
-### Data Manipulation with pandas
+##### Data Manipulation with pandas
 - Reading in a CSV
 - Subsetting rows
 - Inspecting a DataFrame
 
-### Statistical Thinking in Python
+##### Statistical Thinking in Python
 - Bootstrap analysis
